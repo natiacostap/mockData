@@ -8,8 +8,9 @@
     "layers": [ 
       "thematism_comuni",
       "thematism_province",
-      "thematism_regioni"
-      
+      "thematism_regioni",
+      "Linea_costa",
+      "areeverdiPolygon" 
     ]
   }
 ]
