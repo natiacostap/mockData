@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "first_name": "Fletcher",
+    "last_name": "Hellyar",
+    "email": "fhellyar0@usa.gov",
+    "workspace":"test", 
+    "layers": [ 
+      "thematism_comuni",
+      "thematism_province",
+      "thematism_regioni"
+      
+    ]
+  }
+]
