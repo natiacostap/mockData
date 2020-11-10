@@ -6,7 +6,7 @@
     "email": "fhellyar0@usa.gov",
     "workspace":"kamal", 
     "layers": [ 
-      "kamal:cityblocks_stgo"
+      "cityblocks_stgo"
     ]
   }
 ]
